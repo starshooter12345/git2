@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-added from local
+added from remote
 
-=======
-dsdf.sdsd,,,,,
->>>>>>> cba1334677bb6ce80af5bc992dd4489f50916b08
